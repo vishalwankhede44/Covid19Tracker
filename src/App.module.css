@@ -25,3 +25,12 @@ body{
     }
 
 }
+
+.footer{
+    height:50px;
+    width: 100%;
+    margin-top:2%;
+    text-align: center;
+    color:black;
+    font-family: Cambria;
+}
